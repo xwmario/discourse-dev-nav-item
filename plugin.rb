@@ -3,4 +3,4 @@
 # version: 0.1
 # authors: Robin Ward
 
-register_custom_html(extraNavItem: "<li><a href='/groups/developers'>Dev Tracker</a></li>")
+register_custom_html(extraNavItem: "<li><a href='/c/anime/Season'>Anime</a></li>")
